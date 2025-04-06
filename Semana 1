@@ -10,6 +10,74 @@ Intereses personales
 
 Delegado: Gustavo Perez
 
-Grupo de 4 parte 
+Grupo de 1 parte 
 
 Tema aun no desidido
+
+Introducción
+
+La Arquitectura de computadoras constituye el fundamento de los llamados sistemas de computación.
+
+Las computadoras son sin dudad el área de mayor dinamismop e innovaci´´on
+
+
+¿ Que es la arcquitectura de computadoras y porque es importante hoy en día ?
+
+La arquitectura de computadoras es el diseño y organización de los componentes físicos y lógicos de un sistema 
+
+
+
+
+Definición
+
+Concepto                                     Arquitectura de Computadoras                                                   Oraganización de Computadoras                      
+Definicion       Se refierre al diseño lógico y funcional del hardware y las intrucciones que soporta    Se enfoca en cómo los componentes físicos están conectados e interaccionan.
+¿ Que estudia ? Modelo de programación.
+                Tamaño y tipo de registros.
+
+
+Componentes clavve de una computadora moderna
+
+1. Unidad Central de Procesamiento (CPU)
+ El "Cerebro" de la computadora, ejecuta intrucciones  y realiza cálculos-
+      Partes principales:
+      Unidad de Control(CU) -> Coordina las operaciones  del sistema.
+      Unidad    matemáticas y lógicas
+
+
+Com ponentes clave de una coomputadora moderna 
+
+CPU Multi-Core
+. Antes: Un solo núcleo ejecutaba una tarea a la vez.
+. Ahora: CPUs con 2, 4, 8 o más núcleos trabajan en paralelo, mejorando el rendimiento.
+. Ejemplo: Intel Core i9 y AMD Ryzen 9 permite 
+
+
+Relación entre hardware y software
+
+La relación entre hardware y software en la actualidad es fundamental para el funcionamiento
+
+
+El hardware proporciona la infraestructura física sobre la cual se ejecuta el software, mientras que este último permite que los dispocitivos funcionen y cumplan las tareas específicas. La relación se da en los siguientes niveles:
+
+Sistema Operativo
+. Actua
+
+
+La optimización del                                                                       se reducen las
+software permite                                                                          necesidades de
+aprovechar al máximo                                                                      hardware local gracias
+la potencia del                                                                           a servicio remotos.
+hardware(ejemplo:IA y
+procesamiento gráfico
+en tarjetas GPU)             
+
+                    Eficiencia y                                            Computacion
+                    rendimiento                                              en la nube
+
+
+
+
+
+Hardware
+
